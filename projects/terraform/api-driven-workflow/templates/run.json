@@ -1,0 +1,17 @@
+{
+    "data": {
+      "attributes": {
+        "is-destroy": false,
+        "message": "Queued via the Terraform Cloud API"
+      },
+      "type":"runs",
+      "relationships": {
+        "workspace": {
+          "data": {
+            "type": "workspaces",
+            "id": ""
+          }
+        }
+      }
+    }
+  }
